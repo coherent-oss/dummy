@@ -1,5 +1,5 @@
 # Downstream workflow
-name: ${{ "dynamic name" }}
+name: ${{ 'dynamic name' }}
 
 on:
   merge_group:
